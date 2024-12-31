@@ -9,7 +9,7 @@ This package provides ROS2 interfaces for object detection packages.
 To install the package, run the following commands:
 
 ```bash
-git clone git@github.com:GAI-313/object_detect_interfaces.git
+git clone https://github.com/GAI-313/object_detect_interfaces.git
 colcon build --symlink-install --packages-up-to object_detect_interfaces
 ```
 
